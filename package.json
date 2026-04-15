@@ -1,0 +1,1 @@
+{\n  "name": "study-scheduler",\n  "version": "1.0.0",\n  "scripts": {\n    "start": "node server.js",\n    "client": "vite",\n    "build": "vite build",\n    "dev": "vite"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "sqlite3": "^5.0.0",\n    "cors": "^2.8.5"\n  },\n  "devDependencies": {\n    "vite": "^2.0.0",\n    "@vitejs/plugin-react": "^1.0.0"\n  }\n}
